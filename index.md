@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maskie's portfolio.
 
 You can use the [editor on GitHub](https://github.com/Maskie1/Coding-2-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
