@@ -17,3 +17,4 @@ Converts temperatures. Watch Zoog Burn. Source File [here](https://github.com/Ma
 ![](https://github.com/Maskie1/Coding-2-Portfolio/blob/gh-pages/images/Temperature.png?raw=true)
 #### Etch a Sketch
 Sketches things. Current Version is intentionally frozen on one image though. Source File [here](https://github.com/Maskie1/Coding-2-Portfolio/tree/gh-pages/src/edge_a_sketch).
+![](https://github.com/Maskie1/Coding-2-Portfolio/blob/gh-pages/images/Etch_a_Sketch.png?raw=true)
