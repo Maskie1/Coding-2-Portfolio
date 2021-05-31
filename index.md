@@ -11,7 +11,7 @@ Final Project of the School Year. Also OOP interactive game. Source File [here](
 ![](https://github.com/Maskie1/Coding-2-Portfolio/blob/gh-pages/images/FinalProject.png?raw=true)
 #### Computer Timeline
 A brief timeline of historical computers. Source File [here](https://github.com/Maskie1/Coding-2-Portfolio/tree/gh-pages/src/computer_timeline).
-![]()
+![](https://github.com/Maskie1/Coding-2-Portfolio/blob/gh-pages/images/ComputerTimeline.png?raw=true)
 #### Farenheit Celcius Converter
 Converts temperatures. Watch Zoog Burn. Source File [here](https://github.com/Maskie1/Coding-2-Portfolio/tree/gh-pages/src/temperature_converting).
 ![]()
